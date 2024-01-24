@@ -1,4 +1,4 @@
-Tasks = [
+tasks = [
     {
         'id': 1,
         'title ': 'Courses ',
